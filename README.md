@@ -1,8 +1,6 @@
-# This project is now read-only, I give up supporting this project. If you have issues, bugs, feature requests, etc then you're on your own.
+# This project is still supported, but if you have issues, bugs, feature requests, etc then you're still on your own.
 # SM64-JS
 Super Mario 64 ported to JavaScript and WebAssembly via Emscripten.  
-## REPL Takedown
-I was forced to take down the [REPL for this project](https://replit.com/@jscraft/sm64?v=1) due to copyright issues. I have uploaded it to GitHub so you can enjoy this a bit longer.  
 # Setup Manually
 ## Play using Python2 or Python3
 ```bash
