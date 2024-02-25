@@ -1,7 +1,7 @@
 {
   "name": "Super Mario 64",
   "short_name": "SM64",
-  "description": "Super Mario 64 in WASM! / Super Mario 64 as an app on a Chromebook! / Super Mario 64 web port app!",
+  "description": "Super Mario 64 in WASM! Super Mario 64 as an app on a Chromebook! Super Mario 64 web port app!",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
